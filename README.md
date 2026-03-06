@@ -1,4 +1,4 @@
-# Cat gif
+
 ![](cat_gif.gif)
 
 # 💫 About Me:
