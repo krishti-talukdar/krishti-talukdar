@@ -1,5 +1,5 @@
 # Cat gif
-![](https://github.com/krishti-talukdar/cat gif.gif)
+![](https://github.com/krishti-talukdar/cat_gif.gif)
 
 # 💫 About Me:
 🔭 I’m currently working on a project at TIH, IITG<br>👯 I’m looking to collaborate on projects based on embedded firmware and embedded linux<br>🤝 I’m looking for help with internships<br>🌱 I’m currently learning RTOS, computer architecture and deeper about embedded systems<br>💬 Ask me about science and tech<br>⚡ Fun fact- I am always eager to learn new things 
